@@ -1,0 +1,5 @@
+F:\C#\thursday\exercise2\exercise2\bin\Debug\exercise2.exe.config
+F:\C#\thursday\exercise2\exercise2\bin\Debug\exercise2.exe
+F:\C#\thursday\exercise2\exercise2\bin\Debug\exercise2.pdb
+F:\C#\thursday\exercise2\exercise2\obj\Debug\exercise2.exe
+F:\C#\thursday\exercise2\exercise2\obj\Debug\exercise2.pdb

@@ -1,0 +1,9 @@
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\ASP.net学习\作业\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\ASP.net学习\作业\排序1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\ASP.net学习\作业\排序1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\ASP.net学习\作业\排序1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

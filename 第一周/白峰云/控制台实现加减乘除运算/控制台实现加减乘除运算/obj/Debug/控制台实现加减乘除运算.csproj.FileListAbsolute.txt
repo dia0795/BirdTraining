@@ -1,0 +1,7 @@
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\bin\Debug\控制台实现加减乘除运算.exe.config
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\bin\Debug\控制台实现加减乘除运算.exe
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\bin\Debug\控制台实现加减乘除运算.pdb
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\obj\Debug\控制台实现加减乘除运算.csprojAssemblyReference.cache
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\obj\Debug\控制台实现加减乘除运算.csproj.CoreCompileInputs.cache
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\obj\Debug\控制台实现加减乘除运算.exe
+C:\Users\baifengyun\Desktop\白峰云第一次作业\控制台实现加减乘除运算\控制台实现加减乘除运算\obj\Debug\控制台实现加减乘除运算.pdb

@@ -1,0 +1,7 @@
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\obj\Debug\用for语句实现数的阶乘.csprojAssemblyReference.cache
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\obj\Debug\用for语句实现数的阶乘.csproj.CoreCompileInputs.cache
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\bin\Debug\用for语句实现数的阶乘.exe.config
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\bin\Debug\用for语句实现数的阶乘.exe
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\bin\Debug\用for语句实现数的阶乘.pdb
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\obj\Debug\用for语句实现数的阶乘.exe
+C:\Users\baifengyun\Desktop\白峰云第一次作业\用for语句实现数的阶乘\用for语句实现数的阶乘\obj\Debug\用for语句实现数的阶乘.pdb

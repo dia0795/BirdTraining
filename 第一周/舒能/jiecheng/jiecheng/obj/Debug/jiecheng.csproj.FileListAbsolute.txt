@@ -1,0 +1,6 @@
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\bin\Debug\jiecheng.exe.config
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\obj\Debug\jiecheng.csprojResolveAssemblyReference.cache
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\bin\Debug\jiecheng.exe
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\bin\Debug\jiecheng.pdb
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\obj\Debug\jiecheng.exe
+c:\users\as\documents\visual studio 2015\Projects\jiecheng\jiecheng\obj\Debug\jiecheng.pdb

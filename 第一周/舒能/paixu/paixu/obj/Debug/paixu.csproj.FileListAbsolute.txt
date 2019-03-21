@@ -1,0 +1,6 @@
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\bin\Debug\paixu.exe.config
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\bin\Debug\paixu.exe
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\bin\Debug\paixu.pdb
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\obj\Debug\paixu.csprojResolveAssemblyReference.cache
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\obj\Debug\paixu.exe
+c:\users\as\documents\visual studio 2015\Projects\paixu\paixu\obj\Debug\paixu.pdb

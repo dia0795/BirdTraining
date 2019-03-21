@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+h2{
+	margin-left:5px;
+}
+h3{
+	font-size:20px;
+	text-align:center;
+}
+hr{
+	size:1px;
+	text-align:left;
+	width:300px;
+	margin-left:10px;
+}
+#zuo{background:url(../bj2.jpg);
+	width:900px;
+	float:left;
+}
+#you{
+	background:url(../images/bj8.jpg);
+	width:300px;
+	float:right;
+	padding-top:10px;
+}
+#zuoxiazuo{
+	width:450px;
+	float:left;
+}
+#zuoxiayou{
+	width:450px;
+	float:right;
+}

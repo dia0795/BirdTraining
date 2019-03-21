@@ -1,0 +1,12 @@
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe.config
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.pdb
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.csprojResolveAssemblyReference.cache
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.exe
+E:\C#练习\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.pdb
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe.config
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.exe
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.pdb
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.pdb
+C:\Users\vn7\Desktop\周征伟的第一周目标\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.csprojResolveAssemblyReference.cache

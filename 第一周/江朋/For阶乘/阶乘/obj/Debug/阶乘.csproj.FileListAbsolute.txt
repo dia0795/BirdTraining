@@ -1,0 +1,7 @@
+D:\C#作业\阶乘\阶乘\bin\Debug\阶乘.exe.config
+D:\C#作业\阶乘\阶乘\bin\Debug\阶乘.exe
+D:\C#作业\阶乘\阶乘\bin\Debug\阶乘.pdb
+D:\C#作业\阶乘\阶乘\obj\Debug\阶乘.csprojAssemblyReference.cache
+D:\C#作业\阶乘\阶乘\obj\Debug\阶乘.csproj.CoreCompileInputs.cache
+D:\C#作业\阶乘\阶乘\obj\Debug\阶乘.exe
+D:\C#作业\阶乘\阶乘\obj\Debug\阶乘.pdb

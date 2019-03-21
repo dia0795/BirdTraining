@@ -1,0 +1,14 @@
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.exe.config
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.exe
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.pdb
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.csprojAssemblyReference.cache
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.csproj.CoreCompileInputs.cache
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.exe
+F:\Visual studio学习\自己\作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.pdb
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.exe.config
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.exe
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\bin\Debug\控制台实现阶乘.pdb
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.csprojAssemblyReference.cache
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.csproj.CoreCompileInputs.cache
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.exe
+E:\Visual Studio相关\C#作业\控制台实现阶乘\控制台实现阶乘\obj\Debug\控制台实现阶乘.pdb

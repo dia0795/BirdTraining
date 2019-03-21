@@ -1,0 +1,6 @@
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\bin\Debug\冒泡排序数字.exe.config
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\bin\Debug\冒泡排序数字.exe
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\bin\Debug\冒泡排序数字.pdb
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\obj\Debug\冒泡排序数字.csprojResolveAssemblyReference.cache
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\obj\Debug\冒泡排序数字.exe
+C:\Users\99757\Desktop\学习资料\program\第一周\冒泡排序数字\冒泡排序数字\obj\Debug\冒泡排序数字.pdb

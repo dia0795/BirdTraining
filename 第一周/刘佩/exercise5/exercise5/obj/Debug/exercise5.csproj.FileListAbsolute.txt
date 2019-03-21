@@ -1,0 +1,6 @@
+F:\C#\thursday\exercise5\exercise5\bin\Debug\exercise5.exe.config
+F:\C#\thursday\exercise5\exercise5\bin\Debug\exercise5.exe
+F:\C#\thursday\exercise5\exercise5\bin\Debug\exercise5.pdb
+F:\C#\thursday\exercise5\exercise5\obj\Debug\exercise5.csprojResolveAssemblyReference.cache
+F:\C#\thursday\exercise5\exercise5\obj\Debug\exercise5.exe
+F:\C#\thursday\exercise5\exercise5\obj\Debug\exercise5.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "控制台实现加减乘除运算", "控制台实现加减乘除运算\控制台实现加减乘除运算.csproj", "{46D80ABA-BDFF-4CD2-9808-4D9370EFE3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D80ABA-BDFF-4CD2-9808-4D9370EFE3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D80ABA-BDFF-4CD2-9808-4D9370EFE3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D80ABA-BDFF-4CD2-9808-4D9370EFE3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D80ABA-BDFF-4CD2-9808-4D9370EFE3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0296DA6-44E1-437E-9020-A955D5526959}
+	EndGlobalSection
+EndGlobal

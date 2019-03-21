@@ -1,0 +1,5 @@
+c:\users\as\documents\visual studio 2015\Projects\jiujiuchengfabiao\jiujiuchengfabiao\bin\Debug\jiujiuchengfabiao.exe.config
+c:\users\as\documents\visual studio 2015\Projects\jiujiuchengfabiao\jiujiuchengfabiao\bin\Debug\jiujiuchengfabiao.exe
+c:\users\as\documents\visual studio 2015\Projects\jiujiuchengfabiao\jiujiuchengfabiao\bin\Debug\jiujiuchengfabiao.pdb
+c:\users\as\documents\visual studio 2015\Projects\jiujiuchengfabiao\jiujiuchengfabiao\obj\Debug\jiujiuchengfabiao.exe
+c:\users\as\documents\visual studio 2015\Projects\jiujiuchengfabiao\jiujiuchengfabiao\obj\Debug\jiujiuchengfabiao.pdb

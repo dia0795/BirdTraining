@@ -1,0 +1,7 @@
+D:\C#作业\加减乘除\加减乘除\bin\Debug\加减乘除.exe.config
+D:\C#作业\加减乘除\加减乘除\bin\Debug\加减乘除.exe
+D:\C#作业\加减乘除\加减乘除\bin\Debug\加减乘除.pdb
+D:\C#作业\加减乘除\加减乘除\obj\Debug\加减乘除.csprojAssemblyReference.cache
+D:\C#作业\加减乘除\加减乘除\obj\Debug\加减乘除.csproj.CoreCompileInputs.cache
+D:\C#作业\加减乘除\加减乘除\obj\Debug\加减乘除.exe
+D:\C#作业\加减乘除\加减乘除\obj\Debug\加减乘除.pdb
