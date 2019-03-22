@@ -1,7 +1,0 @@
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\bin\Debug\冒泡法排序.exe.config
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\bin\Debug\冒泡法排序.exe
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\bin\Debug\冒泡法排序.pdb
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\obj\Debug\冒泡法排序.csprojAssemblyReference.cache
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\obj\Debug\冒泡法排序.csproj.CoreCompileInputs.cache
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\obj\Debug\冒泡法排序.exe
-F:\Visual studio学习\自己\作业\冒泡法排序\冒泡法排序\obj\Debug\冒泡法排序.pdb

@@ -1,6 +1,0 @@
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\bin\Debug\阶乘实现.exe.config
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\bin\Debug\阶乘实现.exe
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\bin\Debug\阶乘实现.pdb
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\obj\Debug\阶乘实现.csprojResolveAssemblyReference.cache
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\obj\Debug\阶乘实现.exe
-C:\Users\99757\Desktop\学习资料\program\第一周\阶乘实现\阶乘实现\obj\Debug\阶乘实现.pdb

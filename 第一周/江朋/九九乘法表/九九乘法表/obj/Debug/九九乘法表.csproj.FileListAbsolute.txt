@@ -1,7 +1,0 @@
-D:\C#作业\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe.config
-D:\C#作业\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe
-D:\C#作业\九九乘法表\九九乘法表\bin\Debug\九九乘法表.pdb
-D:\C#作业\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csprojAssemblyReference.cache
-D:\C#作业\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csproj.CoreCompileInputs.cache
-D:\C#作业\九九乘法表\九九乘法表\obj\Debug\九九乘法表.exe
-D:\C#作业\九九乘法表\九九乘法表\obj\Debug\九九乘法表.pdb

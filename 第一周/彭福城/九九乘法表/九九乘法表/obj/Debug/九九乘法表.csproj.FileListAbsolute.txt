@@ -1,6 +1,0 @@
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe.config
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\bin\Debug\九九乘法表.pdb
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csprojResolveAssemblyReference.cache
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\obj\Debug\九九乘法表.exe
-C:\Users\99757\Desktop\学习资料\program\第一周\九九乘法表\九九乘法表\obj\Debug\九九乘法表.pdb

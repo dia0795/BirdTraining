@@ -1,7 +1,0 @@
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe.config
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.exe
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\bin\Debug\控制台实现加减乘除计算.pdb
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.csprojAssemblyReference.cache
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.csproj.CoreCompileInputs.cache
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.exe
-F:\Visual studio学习\自己\作业\控制台实现加减乘除计算\控制台实现加减乘除计算\obj\Debug\控制台实现加减乘除计算.pdb

@@ -1,7 +1,0 @@
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\bin\Debug\控制台输出九九乘法表.exe.config
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\bin\Debug\控制台输出九九乘法表.exe
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\bin\Debug\控制台输出九九乘法表.pdb
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\obj\Debug\控制台输出九九乘法表.csprojAssemblyReference.cache
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\obj\Debug\控制台输出九九乘法表.csproj.CoreCompileInputs.cache
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\obj\Debug\控制台输出九九乘法表.exe
-F:\Visual studio学习\自己\作业\控制台输出九九乘法表\控制台输出九九乘法表\obj\Debug\控制台输出九九乘法表.pdb

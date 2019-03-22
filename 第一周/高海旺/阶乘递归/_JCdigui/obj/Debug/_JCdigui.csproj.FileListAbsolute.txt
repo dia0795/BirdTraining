@@ -1,9 +1,0 @@
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\bin\Debug\_JCdigui.exe.config
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\bin\Debug\_JCdigui.exe
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\bin\Debug\_JCdigui.pdb
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\obj\Debug\_JCdigui.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\obj\Debug\_JCdigui.exe
-C:\Users\Administrator\AppData\Local\Temporary Projects\_JCdigui\obj\Debug\_JCdigui.pdb
-E:\ASP.net学习\作业\阶乘递归\_JCdigui\bin\Debug\_JCdigui.exe.config
-E:\ASP.net学习\作业\阶乘递归\_JCdigui\obj\Debug\_JCdigui.exe
-E:\ASP.net学习\作业\阶乘递归\_JCdigui\obj\Debug\_JCdigui.pdb

@@ -1,6 +1,0 @@
-F:\C#\thursday\exercise3\exercise3\bin\Debug\exercise3.exe.config
-F:\C#\thursday\exercise3\exercise3\bin\Debug\exercise3.exe
-F:\C#\thursday\exercise3\exercise3\bin\Debug\exercise3.pdb
-F:\C#\thursday\exercise3\exercise3\obj\Debug\exercise3.csprojResolveAssemblyReference.cache
-F:\C#\thursday\exercise3\exercise3\obj\Debug\exercise3.exe
-F:\C#\thursday\exercise3\exercise3\obj\Debug\exercise3.pdb
