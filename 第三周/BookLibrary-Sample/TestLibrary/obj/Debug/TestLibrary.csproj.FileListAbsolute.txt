@@ -1,0 +1,9 @@
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\bin\Debug\TestLibrary.exe.config
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\bin\Debug\TestLibrary.exe
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\bin\Debug\BookLibraryManager.dll
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\bin\Debug\BookLibraryManager.pdb
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\obj\Debug\TestLibrary.exe
+D:\CodeSource\VS2017\BookLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
